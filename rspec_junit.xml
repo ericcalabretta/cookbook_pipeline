@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="2" failures="0" errors="0" time="3.158082" timestamp="2018-01-15T15:58:43-06:00">
+  <!-- Randomized with seed 25255 -->
+  <properties/>
+  <testcase classname="spec.unit.recipes.default_spec" name="cookbook_pipeline::default When all attributes are default, on Ubuntu 16.04 converges successfully" file="./spec/unit/recipes/default_spec.rb" time="0.198264"/>
+  <testcase classname="spec.unit.recipes.default_spec" name="cookbook_pipeline::default When all attributes are default, on CentOS 7.4.1708 converges successfully" file="./spec/unit/recipes/default_spec.rb" time="0.128072"/>
+</testsuite>
