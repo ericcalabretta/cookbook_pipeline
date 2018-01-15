@@ -12,6 +12,7 @@ pipeline {
             sudo dpkg -i chefdk_2.4.17-1_amd64.deb
           else
             echo "ChefDK is installed"
+          fi  
           '''
       }
     }
@@ -26,4 +27,4 @@ pipeline {
       }
     }
   }
-}  
+}
